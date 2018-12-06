@@ -11,7 +11,7 @@ li {
   float: left;
 }
 
-li a {
+li a, .dropbtn {
   display: block;
   color: #666;
   text-align: center;
@@ -19,24 +19,8 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
-  background-color: #ddd;
-}
-
-li a.active {
-  color: white;
-  background-color: #d8d8d8;
-  
-  li a, .dropbtn {
-  display: inline-block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #ddd;
 }
 
 li.dropdown {
