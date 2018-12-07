@@ -58,3 +58,7 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+#main-body div {
+    margin: 25px 50px 75px 100px;
+}
