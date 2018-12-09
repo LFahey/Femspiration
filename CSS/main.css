@@ -82,11 +82,11 @@ blockquote.colour-quote p {
   letter-spacing: 1px;
   color: #666;
   font-weight: 300;
-  margin-top: -50px;
+  margin-top: -5px;
 }
 blockquote.colour-quote {
-  position: relative;
-  border-left: none;
+  position: right;
+  border-right: none;
 }
 /*Quotation Mark*/
 blockquote.colour-quote:before {
