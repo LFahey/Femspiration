@@ -59,17 +59,15 @@ li.dropdown {
 }
 
 body {
-max-width: 1000px;
-margin: 0 auto !important;
-float: none !important;
 font-family: Raleway; 
-font-size: 14px; 
+font-size: 10.85em; 
 font-style: normal; 
 font-variant: normal; 
 font-weight: 400; 
 line-height: 1.9em;
 font-size: 0.8em;
 letter-spacing: 1px;
+margin: 0 0 1.4em;
 }
 
 
