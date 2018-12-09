@@ -58,7 +58,7 @@ li.dropdown {
   display: block;
 }
 
-body {
+#main-body div {
   font-family: Raleway; 
   font-size: 10.85em; 
   font-style: normal; 
