@@ -58,7 +58,7 @@ li.dropdown {
   display: block;
 }
 
-.body {
+body {
   font-family: Raleway; 
   font-size: 10.85em; 
   font-style: normal; 
@@ -70,7 +70,7 @@ li.dropdown {
   margin: 0 0 1.4em;
 }
 
-.span {
+span {
    color: #2F5597;
    font-weight: bold;
 }
