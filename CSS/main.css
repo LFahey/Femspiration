@@ -78,8 +78,7 @@ span {
 blockquote.colour-quote p {
   font-size: 22px;
   line-height: 35px;
-  font-style: italic;
-  font-family: 'Raleway';
+  font-family: 'Raleway:300i';
   letter-spacing: 1px;
   color: #666;
   font-weight: 300;
