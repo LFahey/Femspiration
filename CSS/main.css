@@ -58,8 +58,11 @@ li.dropdown {
   display: block;
 }
 
-body{
+body {
 max-width: 1000px;
 margin: 0 auto !important;
 float: none !important;
+font-family: Bodoni MT, sans-serif;
 }
+
+
