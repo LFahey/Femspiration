@@ -82,10 +82,10 @@ blockquote.colour-quote p {
   letter-spacing: 1px;
   color: #666;
   font-weight: 300;
-  margin-top: -5px;
+  margin-top: -50px;
 }
 blockquote.colour-quote {
-  position: right;
+  position: left;
   border-right: none;
 }
 /*Quotation Mark*/
