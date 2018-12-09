@@ -93,7 +93,7 @@ blockquote.colour-quote:before {
   content: "\201C";
   font-size: 175px;
   font-family: 'Raleway';
-  background: -webkit-linear-gradient(180deg, #119ad7 60%, #263C67 40%);/*Change the Colours here*/
+  background: -webkit-linear-gradient(180deg, #2F5597 60%, #263C67 40%);
   -webkit-background-clip: text;
   color: transparent;
 }
