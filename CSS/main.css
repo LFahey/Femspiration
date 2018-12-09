@@ -59,7 +59,7 @@ li.dropdown {
 }
 
 #main-body div {
-    margin: 25px 25px 25px 150px;
+    margin: 25px 25px 150px 25px;
 }
 
 blockquote.colour-quote p {
@@ -70,7 +70,6 @@ blockquote.colour-quote p {
   color: #666;
   font-weight: 300;
   margin-top: -50px;
-  margin-left: 500px;
 }
 
 blockquote.colour-quote {
