@@ -70,10 +70,11 @@ blockquote.colour-quote p {
   color: #666;
   font-weight: 300;
   margin-top: -50px;
+  margin-left: 500px;
 }
 
 blockquote.colour-quote {
-  position: right;
+  position: relative;
   border-left: none;
 }
 
