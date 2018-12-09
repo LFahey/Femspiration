@@ -79,6 +79,7 @@ blockquote.colour-quote p {
   font-size: 22px;
   line-height: 35px;
   font-style: italic;
+  font-family: 'Raleway';
   letter-spacing: 1px;
   color: #666;
   font-weight: 300;
@@ -92,7 +93,7 @@ blockquote.colour-quote {
 blockquote.colour-quote:before {
   content: "\201C";
   font-size: 175px;
-  font-family: 'Alegreya', serif;
+  font-family: 'Raleway';
   background: -webkit-linear-gradient(180deg, #119ad7 60%, #263C67 40%);/*Change the Colours here*/
   -webkit-background-clip: text;
   color: transparent;
@@ -104,7 +105,7 @@ blockquote.colour-quote:before {
   text-transform: uppercase;
   line-height: 1em;
 }
-!--Source of quote--
+/*Source of Quote*/
 .colour-org {
   padding-left: 20px;
   font-size: 12px;
