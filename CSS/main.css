@@ -62,8 +62,12 @@ body {
 max-width: 1000px;
 margin: 0 auto !important;
 float: none !important;
-font-family: "Raleway", sans-serif;
-line-height: 1.9em;
+font-family: Raleway; 
+font-size: 14px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 400; 
+line-height: 20px;
 }
 
 
