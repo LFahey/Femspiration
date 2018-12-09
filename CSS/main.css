@@ -61,3 +61,56 @@ li.dropdown {
 #main-body div {
     margin: 25px 25px 25px 150px;
 }
+
+blockquote.colour-quote p {
+  font-size: 22px;
+  line-height: 35px;
+  font-style: italic;
+  letter-spacing: 1px;
+  color: #666;
+  font-weight: 300;
+  margin-top: -50px;
+}
+
+blockquote.colour-quote {
+  position: relative;
+  border-left: none;
+}
+
+/*Quotation Mark*/
+blockquote.colour-quote:before {
+  content: "\201C";
+  font-size: 175px;
+  font-family: 'Alegreya', serif;
+  background: -webkit-linear-gradient(180deg, #119ad7 60%, #263C67 40%);/*Change the Colours here*/
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+/*Author*/
+.colour-author {
+  padding-left: 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+  line-height: 1em;
+}
+
+/*Source or Organisation*/
+.colour-org {
+  padding-left: 20px;
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1em;
+}
+
+/*Mobile Settings Add CSS Class colour-wrap to Text Module*/
+@media all and (min-width: 700px) {
+.colour-wrap {
+  float: left;
+  margin: 20px 20px 20px -10%;
+}
+    
+blockquote.colour-quote {
+  padding: 0 20px;
+  max-width: 300px;
+}
