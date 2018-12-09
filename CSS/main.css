@@ -58,6 +58,8 @@ li.dropdown {
   display: block;
 }
 
-#main-body div {
-    margin: 25px 25px 25px 150px;
+body{
+max-width: 1080px;
+margin: 0 auto !important;
+float: none !important;
 }
