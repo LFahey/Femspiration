@@ -1,4 +1,5 @@
 #site-logo img {
+    display:block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
@@ -10,7 +11,7 @@
   font-variant: normal;  
 }
 
-#search1 .search {
+#search1 search {
   font-family: 'Raleway';
   font-size: 10.85em; 
   font-style: normal; 
@@ -86,6 +87,10 @@ li.dropdown {
 span {
    color:  #CC0000;
    font-weight: bold;
+}
+
+.container {
+display:inline-block;
 }
 
 blockquote.colour-quote p {
