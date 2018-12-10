@@ -11,6 +11,12 @@
   font-variant: normal;  
 }
 
+#search1 .div {
+  font-family: 'Raleway';
+  font-size: 10.85em; 
+  font-style: normal; 
+}
+
 ul {
   list-style-type: none;
   margin: 0;
