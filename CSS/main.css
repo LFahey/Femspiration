@@ -88,3 +88,47 @@ span {
    color:  #CC0000;
    font-weight: bold;
 }
+
+blockquote.colour-quote p {
+  font-size: 22px;
+  line-height: 35px;
+  font-family: 'Raleway:300i';
+  letter-spacing: 1px;
+  color: #666;
+  font-weight: 300;
+  margin-top: -50px;
+}
+
+/*Quotation Mark*/
+blockquote.colour-quote:before {
+  content: "\201C";
+  font-size: 175px;
+  font-family: 'Raleway';
+  background: -webkit-linear-gradient(180deg, #2F5597 60%, #263C67 40%);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+/*Author*/
+.colour-author {
+  padding-left: 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+  line-height: 1em;
+}
+/*Source of Quote*/
+.colour-org {
+  padding-left: 20px;
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1em;
+}
+/*Mobile Settings Add CSS Class colour-wrap to Text Module*/
+@media all and (min-width: 700px) {
+.colour-wrap {
+  float: left;
+  margin: 20px 20px 20px -10%;
+}
+blockquote.colour-quote {
+  padding: 0 20px;
+  max-width: 300px;
+}
