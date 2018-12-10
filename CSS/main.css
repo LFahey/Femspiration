@@ -125,7 +125,6 @@ blockquote.colour-quote:before {
 /*Mobile Settings Add CSS Class colour-wrap to Text Module*/
 @media all and (min-width: 700px) {
 .colour-wrap {
-  float: left;
   margin: 20px 20px 20px -10%;
 }
 blockquote.colour-quote {
