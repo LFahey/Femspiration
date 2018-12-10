@@ -90,8 +90,20 @@ span {
 }
 
 .container {
-display:inline-block;
+    display:inline-block;
 }
+
+.row {
+    display:inline-block;
+}
+
+.col-md-6 {
+    display:inline-block;
+ }
+    
+.text {
+    display:inline-bloc;
+    }
 
 blockquote.colour-quote p {
   font-size: 22px;
