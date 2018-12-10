@@ -26,6 +26,7 @@ li {
 }
 
 li a, .dropbtn {
+  font-family:'Raleway';
   display: block;
   color: #666;
   text-align: center;
@@ -51,6 +52,7 @@ li.dropdown {
 }
 
 .dropdown-content a {
+  font-family:'Raleway';
   color: black;
   padding: 12px 16px;
   text-decoration: none;
@@ -65,7 +67,7 @@ li.dropdown {
 }
 
 #main-body div {
-  font-family: Raleway; 
+  font-family: 'Raleway'; 
   font-size: 10.85em; 
   font-style: normal; 
   font-variant: normal; 
