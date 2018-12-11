@@ -89,20 +89,20 @@ span {
    font-weight: bold;
 }
 
-.container {
+container {
     display:inline-block;
 }
 
-.row {
+row {
     display:inline-block;
 }
 
-.col-md-6 {
+col-md-6 {
     display:inline-block;
  }
     
-.text {
-    display:inline-bloc;
+text {
+    display:inline-block;
     }
 
 blockquote.colour-quote p {
