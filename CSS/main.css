@@ -73,6 +73,7 @@ li.dropdown {
 }
 
 body {
+  display:inline-block;
   font-family: 'Raleway'; 
   font-size: 10.85em; 
   font-style: normal; 
