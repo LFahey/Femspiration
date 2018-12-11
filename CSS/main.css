@@ -131,9 +131,10 @@ border-radius: 4px;
 }
     
 #newsletter {
-  width: 450px;
-  background: #2F5597;
   text-align: center;
+  display: inline-block;
   color: #FDFCFB;
+  width: 450px;
+  background: #dadada;
 }   
   
