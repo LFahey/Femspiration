@@ -141,7 +141,7 @@ hr.style14 {
   background: #125688;
   color: white;
     
-#newsletter {
+#newsletter form {
   text-align: center;
   display: inline-block;
   margin: 0 auto; 
@@ -151,7 +151,7 @@ hr.style14 {
   background: #dadada;
 }   
 
-#copyright {
+#copyright p {
   text-align: center;
   display: inline-block;
  }
