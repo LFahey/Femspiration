@@ -75,7 +75,7 @@ span {
   color:  #CC0000;
   font-weight: bold;
   font-family: 'Raleway'; 
-  font-size: 10.85em; 
+  font-size: 24; 
   font-style: normal; 
   
 .container {
@@ -113,6 +113,7 @@ span {
 .text {
   background-color: #4CAF50;
   color: white;
+  font-family: 'Raleway'; 
   font-size: 16px;
   padding: 16px 32px;
 }
