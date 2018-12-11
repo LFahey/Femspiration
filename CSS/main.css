@@ -72,7 +72,7 @@ li.dropdown {
   display: block;
 }
 
-#main-body div {
+body {
   font-family: 'Raleway'; 
   font-size: 10.85em; 
   font-style: normal; 
@@ -89,19 +89,19 @@ span {
    font-weight: bold;
 }
 
-container {
+.container {
     display:inline-block;
 }
 
-row {
+.row {
     display:inline-block;
 }
 
-col-md-6 {
+.col-md-6 {
     display:inline-block;
  }
     
-text {
+#text {
     display:inline-block;
     }
 
