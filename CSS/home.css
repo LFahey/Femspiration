@@ -70,8 +70,15 @@ li.dropdown {
 
 .dropdown:hover .dropdown-content {
   display: block;
+    
+span {
+  color:  #CC0000;
+  font-weight: bold;
+  font-family: 'Raleway'; 
+  font-size: 10.85em; 
+  font-style: normal; 
   
-  .container {
+.container {
   position: relative;
   width: 50%;
 }
