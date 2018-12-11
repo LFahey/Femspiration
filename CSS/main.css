@@ -150,4 +150,9 @@ hr.style14 {
   width: 450px;
   background: #dadada;
 }   
+
+#copyright {
+  text-align: center;
+  display: inline-block;
+ }
   
