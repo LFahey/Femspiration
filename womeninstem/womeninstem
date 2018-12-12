@@ -30,24 +30,25 @@
     
     <div id="EFMenu">
       <ul>
-        <li><a class="./index.html" href="#home">Home</a></li>
+        <li><a class="../index.html" href="/index.html">Home</a></li>
         <li class="dropdown">
           <a href="javascript:void(0)" class="dropbtn">Women in STEM</a>
           <div class="dropdown-content">
-            <a href="/womeninstem/RosalindFranklin.html">Rosalind Franklin</a>
-            <a href="/womeninstem/AlexandraElbakyan.html">Alexandra Elbakyan</a>
-            <a href="/womeninstem/NaziyahMahmood.html">Naziyah Mahmood</a>
-            <a href="/womeninstem/AdaLovelace.html">Ada Lovelace</a>
-            <a href="/womeninstem/ElizabethFulhame.html">Elizabeth Fulhame</a>
-           <a href="/womeninstem/SiweiKang.html">Siwei Kang</a>
-           <a href="/womeninstem/VictoriaDrummond.html">Victoria Drummond</a>
-           <a href="/womeninstem/MaryamMirzakhani.html">Maryam Mirzakhani</a>
-           <a href="/womeninstem/MarionRoss.html">Marion Ross</a>
-        <li><a href="/getinvolved.html">Get Involved</a></li>
-        <li><a href="/aboutus.html">About Us</a></li>
-       <li><a href="/resources.html">Resources</a></li>
+            <a href="/RosalindFranklin.html">Rosalind Franklin</a>
+            <a href="/AlexandraElbakyan.html">Alexandra Elbakyan</a>
+            <a href="/NaziyahMahmood.html">Naziyah Mahmood</a>
+            <a href="/AdaLovelace.html">Ada Lovelace</a>
+            <a href="/ElizabethFulhame.html">Elizabeth Fulhame</a>
+            <a href="/SiweiKang.html">Siwei Kang</a>
+            <a href="current">Victoria Drummond</a>
+            <a href="/MaryamMirzakhani.html">Maryam Mirzakhani</a>
+            <a href="/MarionRoss.html">Marion Ross</a>
+          <li><a href="../getinvolved.html">Get Involved</a></li>
+          <li><a href="../aboutus.html">About Us</a></li>
+          <li><a href="../resources.html">Resources</a></li>
       </ul>
-     </div>
+    </div>
+      
       
      <br>
       
@@ -60,44 +61,44 @@
      <!--inserting breaks in page-->
     <br>
       
-    <h2 style="text-align: center">WE ARE ON A MISSION TO SHARE THE STORIES OF WOMEN IN STEM ALONGSIDE THEIR REMARKABLE ACHIEVEMENTS</h2>
-    <h3 style="text-align: center">Check out the following women below and if you want someone to be featured, be sure to leave a note on the "Get Involved" page!</h3>
+    <h2 style="text-align: center">CLICK ON ONE OF THE WOMEN BELOW TO LEARN MORE ABOUT THEM</h2>
+    
  
     <br>
       
     <div class="row">
     <div class="column">
-      <img src="/images/RosalindFranklin.jpg" alt="Rosalind Franklin" style="width:100%">
+      <img src="/images/RosalindFranklinCrop.jpg" alt="Rosalind Franklin" style="width:100%">
     </div>
     <div class="column">
-      <img src="/images/AlexandraElbakyan.jpg" alt="Alexandra Elbakyan" style="width:100%">
+      <img src="/images/AlexandraElbakyanCrop.jpg" alt="Alexandra Elbakyan" style="width:100%">
     </div>
     <div class="column">
-      <img src="/images/NaziyahMahmood.jpg" alt="Naziyah Mahmood" style="width:100%">
+      <img src="/images/NaziyahMahmoodCrop.jpg" alt="Naziyah Mahmood" style="width:100%">
     </div>
     </div>
       
     <div class="row">
     <div class="column">
-      <img src="/images/AdaLovelace.jpg" alt="Ada Lovelace" style="width:100%">
+      <img src="/images/AdaLovelaceCrop.jpg" alt="Ada Lovelace" style="width:100%">
     </div>
     <div class="column">
-      <img src="/images/ElizabethFulhame.jpg" alt="Elizabeth Fulhame" style="width:100%">
+      <img src="/images/ElizabethFulhameCrop.jpg" alt="Elizabeth Fulhame" style="width:100%">
     </div>
     <div class="column">
-      <img src="/images/SiweiKang.jpg" alt="Siwei Kang" style="width:100%">
+      <img src="/images/SiweiKangCrop.jpg" alt="Siwei Kang" style="width:100%">
     </div>
     </div>
       
     <div class="row">
     <div class="column">
-      <img src="/images/VictoriaDrummond.jpg" alt="Victoria Drummond" style="width:100%">
+      <img src="/images/VictoriaDrummondCrop.jpg" alt="Victoria Drummond" style="width:100%">
     </div>
     <div class="column">
-      <img src="/images/MaryamMirzakhani.jpg" alt="Maryam Mirzakhani" style="width:100%">
+      <img src="/images/MaryamMirzakhaniCrop.jpg" alt="Maryam Mirzakhani" style="width:100%">
     </div>
     <div class="column">
-     <img src="/images/MarionRoss.png" alt="Marion Ross" style="width:100%">
+     <img src="/images/MarionRossCrop.jpg" alt="Marion Ross" style="width:100%">
     </div>
     </div>
       
