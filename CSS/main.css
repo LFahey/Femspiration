@@ -164,7 +164,6 @@ hr.style14 {
     
 #site-border img {
     display:block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    align: center;
+    height: 50%;
 }
