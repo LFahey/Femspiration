@@ -161,4 +161,10 @@ hr.style14 {
   text-align: center;
   display: inline-block;
  }
-  
+    
+#site-border img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
