@@ -78,12 +78,15 @@ span {
   font-size: 24; 
   font-style: normal; 
     
-#information {
-    font size: 30px;
-    text-align: center;
+h2 {
+  color: #2F5597;
+  font-family: 'Raleway';
     }
     
-#intro
+h3 {
+    color:#2F5597;
+    font-family: 'Raleway'
+    }
   
 .container {
   position: relative;
