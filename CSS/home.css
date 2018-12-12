@@ -81,11 +81,13 @@ span {
 h2 {
   color: #2F5597;
   font-family: 'Raleway';
+  text-align: center;
     }
     
 h3 {
     color:#2F5597;
-    font-family: 'Raleway'
+    font-family: 'Raleway';
+    text-align: center;
     }
   
 .container {
