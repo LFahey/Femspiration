@@ -77,6 +77,13 @@ span {
   font-family: 'Raleway'; 
   font-size: 24; 
   font-style: normal; 
+    
+#information {
+    font size: 30px;
+    text-align: center;
+    }
+    
+#intro
   
 .container {
   position: relative;
