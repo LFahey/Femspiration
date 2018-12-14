@@ -119,16 +119,19 @@ h2 {
   color: #CC0000;
   font-family: 'Raleway';
   text-align: center;
+  margin: 0 0 1.4em;
     }
     
 h3 {
     color:#2F5597;
     font-family: 'Raleway';
     text-align: center;
+    margin: 0 0 1.4em;e
     }
 
 .row {
   display: flex;
+  margin: 0 0 1.4em;
 }
 
 .column {
@@ -152,10 +155,10 @@ h3 {
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 30px;
+  width: auto;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: auto;
   border-radius: 50%;
 }
 
